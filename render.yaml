@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: webradio
+    env: docker
+    plan: free
+    autoDeploy: true
